@@ -4,9 +4,9 @@
 
 <h4 align="center">Building dApps . Understanding systems deeply. Solving problems through thoughtful engineering.<h4>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-montaser-b40007156/)
+<h4 align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-montaser-b40007156/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@themontaserx)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mohammedmontaserx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mohammedmontaserx@gmail.com)<h4>
 
 ---
 
