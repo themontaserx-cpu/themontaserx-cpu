@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
----
+
+
+
 
 👨‍💻 About Me
 
@@ -32,7 +34,8 @@ My interests include Ethereum development, smart contract security, and decentra
 
 Currently focused on building practical blockchain projects and strengthening my smart contract development and security skills.
 
----
+
+
 
 🎯 Technical Focus
 
