@@ -17,6 +17,7 @@
 </p>
 
 
+<hr>
 
 
 👨‍💻 About Me
@@ -35,6 +36,7 @@ My interests include Ethereum development, smart contract security, and decentra
 Currently focused on building practical blockchain projects and strengthening my smart contract development and security skills.
 
 
+<hr>
 
 
 🎯 Technical Focus
@@ -58,25 +60,20 @@ Development Tools
 - Foundry
 - Git & GitHub
 
----
+<hr>
 
-<h2>💻 Languages & Blockchain</h2>
+<h2 align="center">💻 Languages & Technologies & Tools</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,js,py,c++" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,python" />
 </p>
 
-<h2>⚙️ Tools & Technologies</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
-![Remix IDE](https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<h2>⛓️ Blockchain Ecosystem</h2>
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
