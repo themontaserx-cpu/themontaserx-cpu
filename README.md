@@ -62,7 +62,8 @@ Development Tools
 
 <hr>
 
-<h2 align="center">💻 Languages & Technologies & Tools</h2><p align="center">
+<h3 align="center">💻 Languages & Technologies & Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,js,ts,python" />
 
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
