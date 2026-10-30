@@ -2,7 +2,7 @@
 
 <h4 align="center">Smart Contract Developer | Cybersecurity Engineer</h4>
 
-<h4 align="center">Building dApps . Understanding systems deeply. Solving problems through thoughtful engineering.</h4>
+<h4 align="center">Building dApps</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="https://www.linkedin.com/in/mohamed-montaser-b40007156/">
