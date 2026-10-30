@@ -66,14 +66,13 @@ Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,js,ts,python" />
-</p>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  
 </p>
