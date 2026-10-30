@@ -1,4 +1,4 @@
-Mohamed Montaser Mohamed hasan
+<h4>Mohamed Montaser Mohamed hasan</h4>
 
 Smart Contract Developer | Cybersecurity Engineer
 
@@ -53,7 +53,7 @@ Development Tools
 <h2>💻 Languages & Blockchain</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,js,ts" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,py,c++" />
 </p>
 
 <h2>⚙️ Tools & Technologies</h2>
