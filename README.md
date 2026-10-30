@@ -1,8 +1,8 @@
-<h6>Mohamed Montaser Mohamed hasan</h6>
+<h1 align="center">Mohamed Montaser Mohamed hasan</h1>
 
-Smart Contract Developer | Cybersecurity Engineer
+<h4 align="center">Smart Contract Developer | Cybersecurity Engineer<h4>
 
-Building dApps . Understanding systems deeply. Solving problems through thoughtful engineering.
+<h4 align="center">Building dApps . Understanding systems deeply. Solving problems through thoughtful engineering.<h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-montaser-b40007156/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@themontaserx)
